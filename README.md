@@ -5,7 +5,7 @@ Determining Spin Down Rate of Crab Pulsar Over Years
 <small><b>CREDIT: [JASHANPREET SINGH DINGRA](https://astrodingra.github.io) | ISRO DATA ARCHIVE</b></small>
 
 ###### <b>Ping astrodingra@gmail.com or astrodingra@icloud.com or dm on instagram [@astrodingra](https://wwww.instagram.com/astrodingra) for any quieries </b>
-<b>EXPLANATION><br>
+<b>EXPLANATION</b> <br>
 <b>Graph 1: Spin Period vs. Pulse Number</b><br>
 Plot Description:<br>
 
