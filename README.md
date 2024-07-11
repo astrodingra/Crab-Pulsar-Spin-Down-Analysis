@@ -4,6 +4,8 @@ Determining Spin Down Rate of Crab Pulsar Over Years
 #### Problem : How much the Crab pulsar has slowed down since launch of AstroSat? Finding rate of spin down rate of Crab pulsar with AstroSat LAXPC and CZTI observations.
 <small><b>CREDIT: [JASHANPREET SINGH DINGRA](https://astrodingra.github.io) | ISRO DATA ARCHIVE</b></small>
 
+###### <b>Ping astrodingra@gmail.com or astrodingra@icloud.com or dm on instagram [@astrodingra](https://wwww.instagram.com/astrodingra) for any quieries </b>
+<b>EXPLANATION><br>
 <b>Graph 1: Spin Period vs. Pulse Number</b><br>
 Plot Description:<br>
 
