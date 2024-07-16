@@ -39,4 +39,3 @@ Both graphs can reveal periodic variations in the spin period, which might be re
 Glitches:
 
 Pulsars sometimes exhibit glitches, which are sudden increases in spin frequency (decreases in spin period). These would appear as sharp dips in the spin period in both plots.
-
