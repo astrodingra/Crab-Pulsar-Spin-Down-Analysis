@@ -7,9 +7,9 @@
 
 **Objective:** Finding the rate of spin-down of the Crab pulsar with AstroSat LAXPC and CZTI observations.
 
-**Credit:** [<span style="color:blue">**Jashanpreet Singh Dingra**</span>](https://astrodingra.github.io) | ISRO Data Archive
+**Credit:** [**Jashanpreet Singh Dingra**](https://astrodingra.github.io) | ISRO Data Archive
 
-<span style="color:red">**Note:** The code in the repository may contain discrepancies, and I am continuously working to enhance the accuracy and precision of the results.</span> For any queries, please contact me at <span style="color:blue">**astrodingra@gmail.com**</span> or <span style="color:blue">**astrodingra@icloud.com**</span>, or DM me on Instagram [<span style="color:blue">**@astrodingra**</span>](https://www.instagram.com/astrodingra).
+**<span style="color:red">Note:</span> The code in the repository may contain discrepancies, and I am continuously working to enhance the accuracy and precision of the results.** For any queries, please contact me at **astrodingra@gmail.com** or **astrodingra@icloud.com**, or DM me on Instagram [**@astrodingra**](https://www.instagram.com/astrodingra).
 
 ---
 
@@ -24,10 +24,10 @@
 **Interpretation:**
 - This plot shows how the spin period changes with each successive pulse.
 - If the pulsar is spinning down (i.e., its spin rate is decreasing), you might observe a trend where the spin periods gradually increase.
-- Any irregularities or significant deviations could indicate noise, observational errors, or interesting astrophysical phenomena such as <span style="color:orange">**glitches**</span> (sudden changes in spin period).
+- Any irregularities or significant deviations could indicate noise, observational errors, or interesting astrophysical phenomena such as **glitches** (sudden changes in spin period).
 
-<span style="color:blue">**Note:**</span>
-> <span style="color:blue">**Since this is a single dataset, we might not see a significant spin-down rate. For effective results, we need more data, or we can simply predict the future spin-down rate based on this data only and then match it by analyzing a year-long dataset.**</span>
+**Note:**
+> **Since this is a single dataset, we might not see a significant spin-down rate. For effective results, we need more data, or we can simply predict the future spin-down rate based on this data only and then match it by analyzing a year-long dataset.**
 
 ---
 
@@ -47,10 +47,10 @@
 ## **Detailed Insights**
 
 ### **Spin-Down Rate:**
-> <span style="color:green">**Graph 2 is particularly useful for calculating the spin-down rate, which is the rate at which the pulsar's rotation slows down over time. This can be done by fitting a linear or polynomial model to the data in this plot.**</span>
+> **Graph 2 is particularly useful for calculating the spin-down rate, which is the rate at which the pulsar's rotation slows down over time. This can be done by fitting a linear or polynomial model to the data in this plot.**
 
 ### **Periodic Variations:**
-> <span style="color:purple">**Both graphs can reveal periodic variations in the spin period, which might be related to intrinsic properties of the pulsar or external influences.**</span>
+> **Both graphs can reveal periodic variations in the spin period, which might be related to intrinsic properties of the pulsar or external influences.**
 
 ### **Glitches:**
-> <span style="color:orange">**Pulsars sometimes exhibit glitches, which are sudden increases in spin frequency (decreases in spin period). These would appear as sharp dips in the spin period in both plots.**</span>
+> **Pulsars sometimes exhibit glitches, which are sudden increases in spin frequency (decreases in spin period). These would appear as sharp dips in the spin period in both plots.**
