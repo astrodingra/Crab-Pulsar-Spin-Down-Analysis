@@ -8,6 +8,7 @@
 **Objective:** Finding the rate of spin-down of the Crab pulsar with AstroSat LAXPC and CZTI observations.
 
 **Credit:** [**Jashanpreet Singh Dingra**](https://astrodingra.github.io) | ISRO Data Archive
+
 ---
 ###### **<span style="color:red">Note:</span> The code in the repository may contain discrepancies, and I am continuously working to enhance the accuracy and precision of the results. Kindly note that the repository is under construction and open for contribution.**
 
